@@ -3,7 +3,7 @@ pragma solidity ^0.8.13;
  
 import "../lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol";
 import "../lib/openzeppelin-contracts/contracts/token/ERC20/utils/SafeERC20.sol";
-import "@uniswap-v2-periphery/interfaces/IUniswapV2Router02.sol";
+import "../lib/uniswap-v2-periphery/interfaces/IUniswapV2Router02.sol";
 import "forge-std/src/console.sol";
 import "./interfaces.sol";
 
